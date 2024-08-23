@@ -21,7 +21,7 @@
 
 
 /* Private includes ----------------------------------------------------------*/
-/* USER CODE BEGIN Includes */
+/* USER CODE BEGIN Includes*/
 #include <stdio.h>
 #include "stm32f0xx.h"
 #include "lcd_stm32f0.h"
